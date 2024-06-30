@@ -1,4 +1,4 @@
-package com.github.zipcodewilmington.sample;
+/* package com.github.zipcodewilmington.sample;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Disabled;
@@ -10,7 +10,7 @@ import org.junit.jupiter.params.provider.ValueSource;
  * @version 1.0.0
  * @date 5/17/21 11:02 AM
  */
-@Disabled
+/*@Disabled
 public class PersonTest {
 
     @ParameterizedTest

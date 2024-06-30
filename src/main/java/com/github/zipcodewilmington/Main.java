@@ -1,9 +1,10 @@
-package com.github.zipcodewilmington.sample;
+package com.github.zipcodewilmington;
 
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(randomword);
-
+Wordguess game = new Wordguess();
+game.prompt();
+game.wordGuess();
     }
 }
